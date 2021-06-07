@@ -203,9 +203,9 @@ footer p, footer a {
         margin: 5% 5%;
         padding: 0;
     }
-    .nav {
+    /* .nav {
         margin-right: 0;
-    }
+    } */
     .portfolio {
         display: flex;
         flex-wrap: wrap;
